@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/ccmni/ccmni.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ubuntu/projects/kernal_source/S9070/alps/kernel/scripts/module-common.lds --build-id  -o mediatek/kernel/drivers/ccmni/ccmni.ko mediatek/kernel/drivers/ccmni/ccmni.o mediatek/kernel/drivers/ccmni/ccmni.mod.o

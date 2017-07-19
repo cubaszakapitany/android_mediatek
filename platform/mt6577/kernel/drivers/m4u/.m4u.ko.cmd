@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6577/kernel/drivers/m4u/m4u.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ubuntu/projects/kernal_source/S9070/alps/kernel/scripts/module-common.lds --build-id  -o mediatek/platform/mt6577/kernel/drivers/m4u/m4u.ko mediatek/platform/mt6577/kernel/drivers/m4u/m4u.o mediatek/platform/mt6577/kernel/drivers/m4u/m4u.mod.o
