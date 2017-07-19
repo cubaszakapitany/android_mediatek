@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/conn_soc/common/mtk_stp_bt.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ubuntu/projects/kernal_source/S7811/BARRY/kernel/scripts/module-common.lds --build-id  -o mediatek/kernel/drivers/conn_soc/common/mtk_stp_bt.ko mediatek/kernel/drivers/conn_soc/common/mtk_stp_bt.o mediatek/kernel/drivers/conn_soc/common/mtk_stp_bt.mod.o
