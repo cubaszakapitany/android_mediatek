@@ -1,0 +1,17 @@
+
+编译规则：
+
+S4011AP: 
+./mediatek/config/s4011/flash_cfg/s4011ap.sh
+
+S4011AP_512: 
+./mediatek/config/s4011/flash_cfg/s4011ap_512.sh
+
+
+S4011Ae: 
+./mediatek/config/s4011/flash_cfg/s4011ae.sh
+
+
+
+
+
